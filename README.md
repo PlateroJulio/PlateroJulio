@@ -2,12 +2,17 @@
 
 ### Desarrollo web moderno!
 <p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/HTML-FF7F0D.svg?style=for-the-badge&logo=html5&logoColor=FF7F0D&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/CSS-FB0DFF.svg?style=for-the-badge&logo=css3&logoColor=FB0DFF&labelColor=ffffff" alt="javascript"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
 </p><br>
 
 ### Backend
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/node-01872C.svg?style=for-the-badge&logo=nodedotjs&logoColor=01872C&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/Java-FA2929.svg?style=for-the-badge&logo=java&logoColor=FA2929&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="" alt="javascript"></a>
 </p><br>
 
 ### Frontend

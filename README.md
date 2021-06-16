@@ -12,11 +12,13 @@
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/node-01872C.svg?style=for-the-badge&logo=nodedotjs&logoColor=01872C&labelColor=ffffff" alt="javascript"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/Java-FA2929.svg?style=for-the-badge&logo=java&logoColor=FA2929&labelColor=ffffff" alt="javascript"></a>
-<a href="https://github.com/priyanshumay"><img src="" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/Hibernate-AFB097.svg?style=for-the-badge&logo=hibernate&logoColor=677A9A&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/C%20sharp-4B1BFF.svg?style=for-the-badge&logo=csharp&logoColor=4B1BFF&labelColor=ffffff" alt="javascript"></a>
 </p><br>
 
 ### Frontend
-<p align="center">					    
+<p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/bootstrap-8A6DF7.svg?style=for-the-badge&logo=bootstrap&logoColor=8A6DF7&labelColor=ffffff" alt="javascript"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/vue-42E97C.svg?style=for-the-badge&logo=vuedotjs&logoColor=success&labelColor=ffffff" alt="react"></a>
 </p><br>
@@ -24,6 +26,7 @@
 ### Almacenamiento
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/SQL%20server-000000.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF2210&labelColor=ffffff" alt="mysql"></a>
 </p><br>
 
 ### Herramientas

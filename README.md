@@ -1,5 +1,10 @@
 <a><img src="https://www.veracode.com/sites/default/files/2020-12/products-hero-developer-enablement.jpg"></a>
-### Hola bienvenidos 👋 mi nombre Julio Platero  soy desarrollador web aqui  podras ver algunas de las herramientas que utilizo!
+### Hola 👋 mi nombre Julio Platero  
+soy desarrollador web, aqui  podras ver algunas de mis hablidades como desarrollador.
+Si estas interesado te estare dejando mis redes sociales en las cuales puedes contactarme con solo un click!
+<p align="center">
+    <a href="https://www.instagram.com/platero_julio/"><img src="https://img.shields.io/badge/instagram-F244DD.svg?style=for-the-badge&logo=instagram&logoColor=F244DD&labelColor=ffffff"></a> 
+</p><br>
 
 ### Desarrollo web moderno!
 <p align="center">

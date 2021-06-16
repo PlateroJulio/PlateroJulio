@@ -40,7 +40,7 @@
 ### Gestiones de servicios
 <p align="center">
 <a href="https://github.com/priyanshumay">
-<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
+<img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=linux&logoColor=000000&labelColor=ffffff" alt="ubuntu">
 </a> 
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
 </p><br>

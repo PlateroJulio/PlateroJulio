@@ -3,7 +3,8 @@
 soy desarrollador web, aqui  podras ver algunas de mis hablidades como desarrollador.
 Si estas interesado te estare dejando mis redes sociales en las cuales puedes contactarme con solo un click!
 <p align="center">
-    <a href="https://www.instagram.com/platero_julio/"><img src="https://img.shields.io/badge/instagram-F244DD.svg?style=for-the-badge&logo=instagram&logoColor=F244DD&labelColor=ffffff"></a> 
+<a href="https://www.instagram.com/platero_julio/"><img src="https://img.shields.io/badge/@platero_julio-F244DD.svg?style=for-the-flat&logo=instagram&logoColor=F244DD&labelColor=ffffff"></a>
+<a><img src="https://img.shields.io/badge/julioplatero98@gmail.com-FF0D0D.svg?style=for-the-flat&logo=gmail&logoColor=FF0D0D&labelColor=ffffff"></a> 
 </p><br>
 
 ### Desarrollo web moderno!

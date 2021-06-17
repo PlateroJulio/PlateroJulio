@@ -51,7 +51,7 @@ Si estas interesado te estare dejando mis redes sociales en las cuales puedes co
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
 </p><br>
   
-[![PlateroJulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlateroJulio)](https://github.com/PlateroJulio/github-readme-stats)
+[![PlateroJulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlateroJulio&show_icons=true&theme=radical)](https://github.com/PlateroJulio/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlateroJulio)](https://github.com/PlateroJulio/github-readme-stats)
 
